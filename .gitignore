@@ -1,0 +1,16 @@
+*.ini
+*.csv
+*.json
+*.pyc
+*.pyd
+
+build/
+site/
+
+_build/
+_static/
+_templates/
+
+__pycache__/
+*.pyd
+
